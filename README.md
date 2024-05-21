@@ -1,1 +1,1 @@
-# Real-And-Fake-News-Detection
+The Real and Fake News Detection project is an advanced machine learning application designed to discern the veracity of news articles. This project employs natural language processing (NLP) techniques and machine learning algorithms to analyze textual data and classify news as either real or fake.
